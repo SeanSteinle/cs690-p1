@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-02-14 17:34:18 by Eclipse SUMO GUI Version 1.22.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\runs\../networks/90_actuated.net.xml"/>
+        <route-files value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\runs\../routes/evening_commute.rou.xml"/>
+        <additional-files value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\runs\Braddock_GMU_Shapes.poly.xml.gz,C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\runs\Braddock_GMU_output.xml"/>
+    </input>
+
+</sumoConfiguration>
+-->
+
+<meandata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/meandata_file.xsd">
+    <interval begin="0.00" end="33383.00" id="Braddock">
+        <edge id="233086822" density="55.61" speed="6.07"/>
+        <edge id="144267658" density="8.46" speed="17.79"/>
+        <edge id="1335116861#0" density="32.62" speed="4.76"/>
+        <edge id="978689484#0" density="21.88" speed="15.47"/>
+        <edge id="590855735" density="1.75" speed="17.24"/>
+        <edge id="1004361301" density="10.83" speed="2.87"/>
+        <edge id="1206114757#0" density="11.29" speed="2.76"/>
+        <edge id="590855734#0" density="1.76" speed="17.07"/>
+    </interval>
+</meandata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-02-14 14:48:59 by Eclipse SUMO GUI Version 1.22.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\Braddock_GMU.net.xml"/>
+        <route-files value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\Braddock_GMU.rou.xml"/>
+        <additional-files value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\Braddock_GMU_Shapes.poly.xml.gz,C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\Braddock_GMU_output.xml"/>
+    </input>
+
+</sumoConfiguration>
+-->
+
+<meandata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/meandata_file.xsd">
+    <interval begin="0.00" end="2447.00" id="Braddock">
+        <edge id="233086822" density="65.94" speed="5.04"/>
+        <edge id="1335116861#0" density="66.86" speed="4.03"/>
+    </interval>
+</meandata>

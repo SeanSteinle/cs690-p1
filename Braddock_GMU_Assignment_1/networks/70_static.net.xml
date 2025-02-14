@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2025-02-14 14:02:29 by Eclipse SUMO netedit Version 1.22.0
+<!-- generated on 2025-02-14 16:50:40 by Eclipse SUMO netedit Version 1.22.0
 <neteditConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
 
     <input>
-        <additional-files value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\Braddock_GMU_Shapes.poly.xml.gz"/>
-        <route-files value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\Braddock_GMU.rou.xml"/>
-        <data-files value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\Braddock_GMU.dat.xml"/>
         <sumo-net-file value="C:\Users\seans\Desktop\GMU\CS690\cs690-p1\Braddock_GMU_Assignment_1\networks\70_static.net.xml"/>
     </input>
 
@@ -877,13 +874,13 @@
     </edge>
 
     <tlLogic id="cluster_1448073539_1448073550_63641648_660066036" type="static" programID="0" offset="0">
-        <phase duration="29" state="GGGrrrrrrrGGGrrrrrrr"/>
+        <phase duration="21" state="GGGrrrrrrrGGGrrrrrrr"/>
         <phase duration="5"  state="yyyrrrrrrryyyrrrrrrr"/>
-        <phase duration="6"  state="rrrGGrrrrrrrrGGrrrrr"/>
+        <phase duration="4"  state="rrrGGrrrrrrrrGGrrrrr"/>
         <phase duration="5"  state="rrryyrrrrrrrryyrrrrr"/>
-        <phase duration="29" state="rrrrrGGGggrrrrrGGGrr"/>
+        <phase duration="21" state="rrrrrGGGggrrrrrGGGrr"/>
         <phase duration="5"  state="rrrrryyyggrrrrryyyrr"/>
-        <phase duration="6"  state="rrrrrrrrGGrrrrrrrrGG"/>
+        <phase duration="4"  state="rrrrrrrrGGrrrrrrrrGG"/>
         <phase duration="5"  state="rrrrrrrryyrrrrrrrryy"/>
     </tlLogic>
     <tlLogic id="cluster_63641434_660066000" type="actuated" programID="0" offset="0">
