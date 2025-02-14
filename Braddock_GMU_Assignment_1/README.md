@@ -62,13 +62,8 @@ Helpful doc: [Driving in Cirlces](https://github.com/eclipse-sumo/sumo/blob/main
 We are observing Braddock Rd outside of GMU, specifically the main intersection with Route 123.
 
 Morning: east - 5000, west - 1000
-
-
-
-Evening: east - 1000, est - 1000
-
-Low: both 1000
-
+Evening: east - 1000, west - 5000
+Midday: east - 1000, west - 1000
 
 ```bash
 sumo-gui -n Generated_Braddock_GMU.net.xml -r Generated_Braddock_GMU.rou.xml
