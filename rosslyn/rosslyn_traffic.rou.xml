@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-02-14 11:36:18 by Eclipse SUMO netedit Version 1.22.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+    <route id="Starbucks" edges="719395506#0 719395506#1 719395506#2 719395506#3 719395506#4 719395506#5 719395506#6 719395506#7 719395506#8 719395506#9 719395506#10 719395506#11 468421267 468421266 330310753#4 330310753#5 330310713#0 330310713#1 330310713#2 330310713#3 330310713#4 330310713#5 330310713#6 -1198113710#1 -1198113710#0 -8796216#1 -8796216#0 -1084380661#3 -1084380661#2 -1084380661#1 -1084380661#0 -397303084 45308541#0 45308541#1 45308541#2 628473035#0 628473035#1 330310713#0 330310713#1 330310713#2 330310713#3 330310713#4 330310713#5 330310713#6 -1198113710#1 -1198113710#0 -8796216#1 -8796216#0 397303086#0 397303086#1" color="red">
+        <param key="TIME" value="2"/>
+    </route>
+    <route id="Target" edges="69201050 24204855 1049097733 468421262 8796496 468421264 687108547#0 687108547#1 687108547#2 468421256#0 468421256#1 468421256#2 468421256#3 468421255#0 468421255#1 24485699 719395509#0 719395509#1 589533498 468422742#0 468422742#1 590645027 468421273#0 468421273#1 468421268#0 468421268#1 38015401#0 38015401#1 628473035#0 628473035#1 1198112933#0 1198112933#1 621527175#0 621527175#1 621527175#2 621527175#3 621527175#4 621527175#5 621527175#6 621527175#7 621527175#8 621527175#9 621527175#10 621527175#11" color="cyan"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <vehicle id="v_0" depart="0.00" route="Target"/>
+    <vehicle id="v_1" depart="0.00" route="Target"/>
+    <vehicle id="v_10" depart="0.00" route="Starbucks"/>
+    <vehicle id="v_11" depart="0.00" route="Starbucks"/>
+    <vehicle id="v_2" depart="0.00" route="Target"/>
+    <vehicle id="v_4" depart="0.00" route="Target"/>
+    <vehicle id="v_5" depart="0.00" route="Target"/>
+    <vehicle id="v_7" depart="0.00" route="Starbucks"/>
+    <vehicle id="v_8" depart="0.00" route="Starbucks"/>
+    <vehicle id="v_9" depart="0.00" route="Starbucks"/>
+    <flow id="f_0" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_1" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_10" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_11" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_2" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_3" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_4" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_5" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_6" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_7" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_8" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_9" begin="0.00" route="Target" end="3600.00" vehsPerHour="1800"/>
+</routes>
